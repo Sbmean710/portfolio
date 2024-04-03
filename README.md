@@ -7,59 +7,45 @@ Address: Campus Road, Mohanpur, West Bengal 741246
 Phone: (+91) 9614485356
 Email: sb18rs093@iiserkol.ac.in or soumenbarman710@gmail.com
 # Education
-- • Ph.D in Biological Sciences, IISER Kolkata, India 2019 - 2024
-- • M. Sc in Zoology (Specialization in Genetics and Molecular Biology), 2016 - 2018
-Vidyasagar University, India
-• B. Sc in Zoology (Hons), Bajkul Milani Mahavidyalays, India 2013 - 2016
+- Ph.D in Biological Sciences, IISER Kolkata, India 2019 - 2024
+- M. Sc in Zoology (Specialization in Genetics and Molecular Biology), 2016 - 2018, Vidyasagar University, India
+- B. Sc in Zoology (Hons), Bajkul Milani Mahavidyalays, India 2013 - 2016
 # Research Experience
-• Research Scholar 2019 - 2024
-Indian Institute of Science Education and Research, (Kolkata, India)
-Supervisor- Dr. Babu Sudhamalla.
-Project title - Understanding the Molecular Mechanism of Bromo and PHD Finger Containing Proteins (BRPF) in Gene
-Expression Regulation
-• Project Student (Master’s Thesis) 2017 - 2018
-Vidyasagar University, (Midnapore, India)
-Supervisor- Prof. Jayanta Kumar Kundu.
-Project title - Neurotoxic Effects of Lead (pb) on Mus musculus and its Recovery by Phyllanthus emblica
+- Research Scholar 2019 - 2024, Indian Institute of Science Education and Research, (Kolkata, India), Supervisor- Dr. Babu Sudhamalla.
+- Project title - Understanding the Molecular Mechanism of Bromo and PHD Finger Containing Proteins (BRPF) in Gene Expression Regulation
+- Project Student (Master’s Thesis) 2017 - 2018, Vidyasagar University, (Midnapore, India), Supervisor- Prof. Jayanta Kumar Kundu.
+- Project title - Neurotoxic Effects of Lead (pb) on Mus musculus and its Recovery by Phyllanthus emblica
 # Teaching Experience
 ## Department of Biological Sciences, IISER Kolkata
-• Teaching Assistant for Cell Biology and Imaging Laboratory (LS3104) Spring 2022
-• Teaching Assistant for Cloning and Protein Expression Laboratory (LS4205) Spring 2021
-• Teaching Assistant for Bioinformatics (LS3205) Autum 2021
+- Teaching Assistant for Cell Biology and Imaging Laboratory (LS3104) Spring 2022
+- Teaching Assistant for Cloning and Protein Expression Laboratory (LS4205) Spring 2021
+- Teaching Assistant for Bioinformatics (LS3205) Autum 2021
 # Honors And Awards
-• Senior Research Fellow Award 2021 - 2024
-• Junior Research Fellow Award 2019 - 2021
-• Qualified CSIR NET JRF (AIR - 48) 2017
-• Merit Cum Means Scholarship of West Bengal 2017 & 2018
+- Senior Research Fellow Award 2021 - 2024
+- Junior Research Fellow Award 2019 - 2021
+- Qualified CSIR NET JRF (AIR - 48) 2017
+- Merit Cum Means Scholarship of West Bengal 2017 & 2018
 # Wokshops and Conferences
-• Best poster from Indian Photobiology Society (IPS) at the Sustainibility Interdisciplinary in Chemical Sciences (SICS
-2023) 2023
-Indian Institute of Science Education and Research, (Kolkata, India)
+- Best poster from Indian Photobiology Society (IPS) at the Sustainibility Interdisciplinary in Chemical Sciences (SICS 2023) 2023, Indian Institute of Science Education and Research, (Kolkata, India)
 Poster title : Uncovering the Non-histone Interactome of the BRPF1 Bromodomain Using Site-Specific Azide-Acetyllysine
 Photochemistry
-• Participated in GTN Smorg ¨ asbord 3 2023 ˚
-• Selected for Poster presentation in ACS publications symposium: Biological and Medicinal chemistry 2023
-University of Bonn, (Bonn, Germany)
+- Participated in GTN GTN Smörgåsbord 3 2023
+- Selected for Poster presentation in ACS publications symposium: Biological and Medicinal chemistry 2023, University of Bonn, (Bonn, Germany)
 Poster title : Molecular Insights into the Recognition of Acetylated Histone Modifications by the BRPF2 Bromodomain
-• Poster presentation in An Interdiscplinary Approach to Biological Sciences (IABS 2023) 2023
-The Indian Association for the Cultivation of Science, (Kolkata, India)
+- Poster presentation in An Interdiscplinary Approach to Biological Sciences (IABS 2023) 2023, The Indian Association for the Cultivation of Science, (Kolkata, India)
 Poster title : Molecular Insights into the Recognition of Acetylated Histone Modifications by the BRPF2 Bromodomain
-• Poster presentation in Frontiers in Modern Biology (FIMB-2023) 2023
-Indian Institute of Science Education and Research, (Kolkata, India)
+- Poster presentation in Frontiers in Modern Biology (FIMB-2023) 2023, Indian Institute of Science Education and Research, (Kolkata, India)
 Poster title : Molecular Insights into the Recognition of Acetylated Histone Modifications by the BRPF2 Bromodomain
-• Karyashala (Workshop) on advanced bio-analytical methods and applications-2022 2022
-Indian Institute of Science Education and Research, (Kolkata, India)
+- Karyashala (Workshop) on advanced bio-analytical methods and applications-2022, 2022, Indian Institute of Science Education and Research, (Kolkata, India)
 Hands-on Training : Recent Advances In Microscopy Methods and Techniques
-• Karyashala (Workshop) on advanced bio-analytical methods and applications-2022 2022
-Indian Institute of Science Education and Research, (Kolkata, India)
+- Karyashala (Workshop) on advanced bio-analytical methods and applications-2022,Indian Institute of Science Education and Research, (Kolkata, India)
 Surface Plasmon Resonance (SPR) Module Instructor
-• Poster presentation in DBS day 2020
-Indian Institute of Science Education and Research, (Kolkata, India)
+- Poster presentation in DBS day 2020, Indian Institute of Science Education and Research, (Kolkata, India)
 Poster title - Uncovering Epigenetic Mechanisms at the Crossroad of Chemistry and Biology
 # Technical Skills
-• Molecular Biology
-SDS-PAGE, Agarose Gel Electrophoresis, Westernblot, DNA/RNA/nucleosome/histone isolation, RT-PCR, qPCR, Immunoprecipitation (IP), Plasmid Expression and Isolation, Coimmunoprecipitation (coIP), Chromatin Immunoprecipitation (ChIP)
-• Protein Biochemistry
+## Molecular Biology
+- SDS-PAGE, Agarose Gel Electrophoresis, Westernblot, DNA/RNA/nucleosome/histone isolation, RT-PCR, qPCR, Immunoprecipitation (IP), Plasmid Expression and Isolation, Coimmunoprecipitation (coIP), Chromatin Immunoprecipitation (ChIP)
+## Protein Biochemistry
 Bacterial Expression of Protein, Protein Purification by Affinity Chromatography (Ni-NTA, GST) and Size Exclusion
 Chromatography (FPLC), Isothermal Titration Calorimetry (ITC), Surface Plasmon Resonance (SPR), Fluorescence Polarization (FP), In-Gel Fluorescence, Photocrosslinking (in vitro), Unnatural Amino Acids Mutagenesis(AzF,BzF)
 • Cell Culture
