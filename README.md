@@ -6,12 +6,14 @@ Email: sb18rs093@iiserkol.ac.in or soumenbarman710@gmail.com
 # Education
 - Ph.D in Biological Sciences, IISER Kolkata, India 2019 - 2024
 - M. Sc in Zoology (Specialization in Genetics and Molecular Biology), 2016 - 2018, Vidyasagar University, India
-- B. Sc in Zoology (Hons), Bajkul Milani Mahavidyalays, India 2013 - 2016  
+- B. Sc in Zoology (Hons), Bajkul Milani Mahavidyalays, India 2013 - 2016
+
 # Research Experience
 - Research Scholar 2019 - 2024, Indian Institute of Science Education and Research, (Kolkata, India), Supervisor- Dr. Babu Sudhamalla.
 - Project title - Understanding the Molecular Mechanism of Bromo and PHD Finger Containing Proteins (BRPF) in Gene Expression Regulation
 - Project Student (Master’s Thesis) 2017 - 2018, Vidyasagar University, (Midnapore, India), Supervisor- Prof. Jayanta Kumar Kundu.
 - Project title - Neurotoxic Effects of Lead (pb) on Mus musculus and its Recovery by _Phyllanthus emblica_  
+
 # Teaching Experience
 ### Department of Biological Sciences, IISER Kolkata
 - Teaching Assistant for Cell Biology and Imaging Laboratory (LS3104) Spring 2022
