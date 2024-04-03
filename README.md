@@ -1,9 +1,9 @@
 # Contact
- _Position: PhD Scholar, Department of Biological Sciences, Indian Institute of Science Education and Research Kolkata (IISER
+#### _Position: PhD Scholar, Department of Biological Sciences, Indian Institute of Science Education and Research Kolkata (IISER
 Kolkata)_
-Address: Campus Road, Mohanpur, West Bengal 741246
-** Phone: (+91) 9614485356
-** Email: sb18rs093@iiserkol.ac.in or soumenbarman710@gmail.com
+#### Address: Campus Road, Mohanpur, West Bengal 741246
+#### Phone: (+91) 9614485356
+#### Email: sb18rs093@iiserkol.ac.in or soumenbarman710@gmail.com
 # Education
 - Ph.D in Biological Sciences, IISER Kolkata, India 2019 - 2024
 - M. Sc in Zoology (Specialization in Genetics and Molecular Biology), 2016 - 2018, Vidyasagar University, India
