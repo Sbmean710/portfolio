@@ -63,29 +63,19 @@ RNA Seq and Single-Cell RNA-Seq Data Analysis)
 # Publications
 ### Journal Papers
 1. Barman S , Padhan J, Sudhamalla B∗. Uncovering the Nonhistone Interactome of BRPF1 Bromodomain Using SiteSpecific Azide-Acetyllysine Photochemistry. JBC. 2023 Dec 3; DOI:https://doi.org/10.1016/j.jbc.2023.105551
-2. Barman S, Bardhan I, Padhan J, Sudhamalla B∗.Integrated virtual screening and MD simulation approaches toward
-discovering potential inhibitors for targeting BRPF1 bromodomain in hepatocellular carcinoma. Journal of Molecular
-Graphics and Modelling. 2023, 108642, ISSN 1093-3263.
-3. Barman S, Sahoo SS, Padhan J, Sudhamalla B∗. Identification of novel natural product inhibitors of BRD4 using high
-throughput virtual screening and MD simulation. J Biomol Struct Dyn. 2022 Dec 16:1-13.
+2. Barman S, Bardhan I, Padhan J, Sudhamalla B∗.Integrated virtual screening and MD simulation approaches toward discovering potential inhibitors for targeting BRPF1 bromodomain in hepatocellular carcinoma. Journal of Molecular Graphics and Modelling. 2023, 108642, ISSN 1093-3263.
+3. Barman S, Sahoo SS, Padhan J, Sudhamalla B∗. Identification of novel natural product inhibitors of BRD4 using high throughput virtual screening and MD simulation. J Biomol Struct Dyn. 2022 Dec 16:1-13.
 4. Barman S#, Roy A#, Padhan J, Sudhamalla B∗.Molecular Insights into the Recognition of Acetylated Histone Modifications by the BRPF2 Bromodomain. Biochemistry. 2022 Sep 6;61(17):1774-1789.
-5. Barman S#, Roy A#, Bardhan I, Kandasamy T, Shivani S, Sudhamalla B∗.Insights into the Molecular Mechanisms of
-Histone Code Recognition by the BRPF3 Bromodomain. Chem Asian J. 2021 Nov 2;16(21):3404-3412.
-6. Roy A#, Barman S#, Padhan J, Sudhamalla B∗.Engineering an acetyllysine reader with a photocrosslinking amino acid
-for interactome profiling. Chem Commun (Camb). 2021 Sep 28;57(77):9866-9869.
+5. Barman S#, Roy A#, Bardhan I, Kandasamy T, Shivani S, Sudhamalla B∗.Insights into the Molecular Mechanisms of Histone Code Recognition by the BRPF3 Bromodomain. Chem Asian J. 2021 Nov 2;16(21):3404-3412.
+6. Roy A#, Barman S#, Padhan J, Sudhamalla B∗.Engineering an acetyllysine reader with a photocrosslinking amino acid for interactome profiling. Chem Commun (Camb). 2021 Sep 28;57(77):9866-9869.
 7. Nayak K#, Ghosh P#, Barman S, Sudhamalla B, Theato P∗, De P∗. Amyloid β-Peptide Segment Conjugated SideChain Proline-Based Polymers as Potent Inhibitors in Lysozyme Amyloidosis. Bioconjugate Chemistry. 2024 Feb 12.
-8. Bardhan I, Barman S, Roy A, Sudhamalla B∗.Novel insights into the recognition of acetylated histone H4 tail by the
-TRIM24 PHD-Bromo module. Biochem J. 2023 May 17; 480 (9): 629-647.
-9. Bera A#, Ghosh P#, Barman S, Bhattacharya S, Sudhamalla B, Goswami K, De P∗. Insulin fibril inhibition using
-glycopolymeric nanoassemblies. Biomater Sci. 2023 Mar 31:1-13.
+8. Bardhan I, Barman S, Roy A, Sudhamalla B∗.Novel insights into the recognition of acetylated histone H4 tail by the TRIM24 PHD-Bromo module. Biochem J. 2023 May 17; 480 (9): 629-647.
+9. Bera A#, Ghosh P#, Barman S, Bhattacharya S, Sudhamalla B, Goswami K, De P∗. Insulin fibril inhibition using glycopolymeric nanoassemblies. Biomater Sci. 2023 Mar 31:1-13.
 10. Yadav Y, Barman S#, Roy A#, Padhan J, Sudhamalla B∗.Uncovering the Domain-Specific Interactome of the TAF1 Tandem Reader Using Site-Specific Azide-Acetyllysine Photochemistry. Biochemistry. 2023 Jan 17;62(2):270-280 **# These authors contributed equally**  
-### Under Preparation/Communication
-1. Sain A, Barman S, Khamrai D, Srinivas M, Varshney M, Sudhamalla B, Naskar D∗. Olive Phenolic Compounds Target
-Tankyrase to Exert anti-cancer Effects against Colon Cancer. (Under Preparation)
-2. Barman S, Sudhamalla B∗. PWWP domain of BRPF1/2 interacts with E2F1 and regulates the expression of genes
-associated with hepatocellular carcinoma and breast cancer. (Under Preparation)
-3. Barman S, Sudhamalla B∗. Site-specific Photochemistry on PZP of Bromo and PHD Finger (BRPF) Family Protein 1
-for Photo-ChIP. (Under Preparation)
+### Under Preparation/Communication  
+1. Sain A, Barman S, Khamrai D, Srinivas M, Varshney M, Sudhamalla B, Naskar D∗. Olive Phenolic Compounds Target Tankyrase to Exert anti-cancer Effects against Colon Cancer. (Under Preparation)
+2. Barman S, Sudhamalla B∗. PWWP domain of BRPF1/2 interacts with E2F1 and regulates the expression of genes associated with hepatocellular carcinoma and breast cancer. (Under Preparation)
+3. Barman S, Sudhamalla B∗. Site-specific Photochemistry on PZP of Bromo and PHD Finger (BRPF) Family Protein 1 for Photo-ChIP. (Under Preparation)
 
 # References
 - Dr. Babu Sudhamalla
