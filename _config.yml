@@ -1,5 +1,5 @@
 title: Soumen Barman
-#logo:
-#description: text below image
-#show_downloads: true
+logo: /asset/chromatin_45png.png
+description: text below image
+show_downloads: true
 theme: jekyll-theme-minimal
