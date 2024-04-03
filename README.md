@@ -85,18 +85,18 @@ associated with hepatocellular carcinoma and breast cancer. (Under Preparation)
 3. Barman S, Sudhamalla B∗. Site-specific Photochemistry on PZP of Bromo and PHD Finger (BRPF) Family Protein 1
 for Photo-ChIP. (Under Preparation)
 # References
-Dr. Babu Sudhamalla
-Assistant Professor
-Indian Institute of Science Education and Research, Kolkata
-Phone: +919849774961
-Email: s.babu@iiserkol.ac.in
-Dr. Arnab Gupta
-Associate Professor
-Indian Institute of Science Education and Research, Kolkata
-Phone: +917044087662
-Email: arnab.gupta@iiserkol.ac.in
-**Dr. Sreeramaiah Gangappa
-Assistant Professor
-Indian Institute of Science Education and Research, Kolkata
-Phone: +917619293192
-Email: ngsreeram@iiserkol.ac.in**
+- Dr. Babu Sudhamalla
+Assistant Professor  
+Indian Institute of Science Education and Research, Kolkata  
+Phone: +919849774961  
+Email: s.babu@iiserkol.ac.in  
+- Dr. Arnab Gupta  
+Associate Professor  
+Indian Institute of Science Education and Research, Kolkata  
+Phone: +917044087662  
+Email: arnab.gupta@iiserkol.ac.in  
+- Dr. Sreeramaiah Gangappa  
+Assistant Professor  
+Indian Institute of Science Education and Research, Kolkata  
+Phone: +917619293192  
+Email: ngsreeram@iiserkol.ac.in  
