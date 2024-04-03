@@ -19,27 +19,30 @@ Email: sb18rs093@iiserkol.ac.in or soumenbarman710@gmail.com
 - Teaching Assistant for Cell Biology and Imaging Laboratory (LS3104) Spring 2022
 - Teaching Assistant for Cloning and Protein Expression Laboratory (LS4205) Spring 2021
 - Teaching Assistant for Bioinformatics (LS3205) Autum 2021
+
 # Honors And Awards
 - Senior Research Fellow Award 2021 - 2024
 - Junior Research Fellow Award 2019 - 2021
 - Qualified CSIR NET JRF (AIR - 48) 2017
-- Merit Cum Means Scholarship of West Bengal 2017 & 2018
+- Merit Cum Means Scholarship of West Bengal 2017 & 2018  
+
 # Wokshops and Conferences
 - Best poster from Indian Photobiology Society (IPS) at the Sustainibility Interdisciplinary in Chemical Sciences (SICS 2023) 2023, Indian Institute of Science Education and Research, (Kolkata, India)
 Poster title : Uncovering the Non-histone Interactome of the BRPF1 Bromodomain Using Site-Specific Azide-Acetyllysine Photochemistry
 - Participated in GTN GTN Smörgåsbord 3 2023
-- Selected for Poster presentation in ACS publications symposium: Biological and Medicinal chemistry 2023, University of Bonn, (Bonn, Germany)
+- Selected for Poster presentation in ACS publications symposium: Biological and Medicinal chemistry 2023, University of Bonn, (Bonn, Germany)  
 Poster title : Molecular Insights into the Recognition of Acetylated Histone Modifications by the BRPF2 Bromodomain
-- Poster presentation in An Interdiscplinary Approach to Biological Sciences (IABS 2023) 2023, The Indian Association for the Cultivation of Science, (Kolkata, India)
+- Poster presentation in An Interdiscplinary Approach to Biological Sciences (IABS 2023) 2023, The Indian Association for the Cultivation of Science, (Kolkata, India)  
 Poster title : Molecular Insights into the Recognition of Acetylated Histone Modifications by the BRPF2 Bromodomain
-- Poster presentation in Frontiers in Modern Biology (FIMB-2023) 2023, Indian Institute of Science Education and Research, (Kolkata, India)
+- Poster presentation in Frontiers in Modern Biology (FIMB-2023) 2023, Indian Institute of Science Education and Research, (Kolkata, India)  
 Poster title : Molecular Insights into the Recognition of Acetylated Histone Modifications by the BRPF2 Bromodomain
-- Karyashala (Workshop) on advanced bio-analytical methods and applications-2022, 2022, Indian Institute of Science Education and Research, (Kolkata, India)
+- Karyashala (Workshop) on advanced bio-analytical methods and applications-2022, 2022, Indian Institute of Science Education and Research, (Kolkata, India)  
 Hands-on Training : Recent Advances In Microscopy Methods and Techniques
-- Karyashala (Workshop) on advanced bio-analytical methods and applications-2022,Indian Institute of Science Education and Research, (Kolkata, India)
+- Karyashala (Workshop) on advanced bio-analytical methods and applications-2022,Indian Institute of Science Education and Research, (Kolkata, India)  
 Surface Plasmon Resonance (SPR) Module Instructor
-- Poster presentation in DBS day 2020, Indian Institute of Science Education and Research, (Kolkata, India)
+- Poster presentation in DBS day 2020, Indian Institute of Science Education and Research, (Kolkata, India)  
 Poster title - Uncovering Epigenetic Mechanisms at the Crossroad of Chemistry and Biology
+
 # Technical Skills
 ### Molecular Biology
 - SDS-PAGE, Agarose Gel Electrophoresis, Westernblot, DNA/RNA/nucleosome/histone isolation, RT-PCR, qPCR, Immunoprecipitation (IP), Plasmid Expression and Isolation, Coimmunoprecipitation (coIP), Chromatin Immunoprecipitation (ChIP)
@@ -55,7 +58,7 @@ Single-Cell RNA-Seq Analysis, Proteomics Data Analysis Using Maxquant, Galaxy
 - Origin, Graphpad Prism, Gnu Plot, Xmgrace, Python Basics and R (For analysis of Molecular Dynamics, ChIP seq, Bulk
 RNA Seq and Single-Cell RNA-Seq Data Analysis)
 ### Vector Designing
-- Adobe Illustrator, Blender
+- Adobe Illustrator, Blender  
 
 # Publications
 ### Journal Papers
@@ -75,8 +78,7 @@ for interactome profiling. Chem Commun (Camb). 2021 Sep 28;57(77):9866-9869.
 TRIM24 PHD-Bromo module. Biochem J. 2023 May 17; 480 (9): 629-647.
 9. Bera A#, Ghosh P#, Barman S, Bhattacharya S, Sudhamalla B, Goswami K, De P∗. Insulin fibril inhibition using
 glycopolymeric nanoassemblies. Biomater Sci. 2023 Mar 31:1-13.
-10. Yadav Y, Barman S#, Roy A#, Padhan J, Sudhamalla B∗.Uncovering the Domain-Specific Interactome of the TAF1
-Tandem Reader Using Site-Specific Azide-Acetyllysine Photochemistry. Biochemistry. 2023 Jan 17;62(2):270-280 # These authors contributed equally
+10. Yadav Y, Barman S#, Roy A#, Padhan J, Sudhamalla B∗.Uncovering the Domain-Specific Interactome of the TAF1 Tandem Reader Using Site-Specific Azide-Acetyllysine Photochemistry. Biochemistry. 2023 Jan 17;62(2):270-280 **# These authors contributed equally**  
 ### Under Preparation/Communication
 1. Sain A, Barman S, Khamrai D, Srinivas M, Varshney M, Sudhamalla B, Naskar D∗. Olive Phenolic Compounds Target
 Tankyrase to Exert anti-cancer Effects against Colon Cancer. (Under Preparation)
@@ -84,6 +86,7 @@ Tankyrase to Exert anti-cancer Effects against Colon Cancer. (Under Preparation)
 associated with hepatocellular carcinoma and breast cancer. (Under Preparation)
 3. Barman S, Sudhamalla B∗. Site-specific Photochemistry on PZP of Bromo and PHD Finger (BRPF) Family Protein 1
 for Photo-ChIP. (Under Preparation)
+
 # References
 - Dr. Babu Sudhamalla
 Assistant Professor  
