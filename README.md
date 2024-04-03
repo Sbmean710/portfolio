@@ -7,8 +7,8 @@ Address: Campus Road, Mohanpur, West Bengal 741246
 Phone: (+91) 9614485356
 Email: sb18rs093@iiserkol.ac.in or soumenbarman710@gmail.com
 # Education
-• Ph.D in Biological Sciences, IISER Kolkata, India 2019 - 2024
-• M. Sc in Zoology (Specialization in Genetics and Molecular Biology), 2016 - 2018
+- • Ph.D in Biological Sciences, IISER Kolkata, India 2019 - 2024
+- • M. Sc in Zoology (Specialization in Genetics and Molecular Biology), 2016 - 2018
 Vidyasagar University, India
 • B. Sc in Zoology (Hons), Bajkul Milani Mahavidyalays, India 2013 - 2016
 # Research Experience
