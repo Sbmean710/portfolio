@@ -9,10 +9,14 @@ Email: sb18rs093@iiserkol.ac.in or soumenbarman710@gmail.com
 - B. Sc in Zoology (Hons), Bajkul Milani Mahavidyalays, India 2013 - 2016
 
 # Research Experience
-- Research Scholar 2019 - 2024, Indian Institute of Science Education and Research, (Kolkata, India), Supervisor- Dr. Babu Sudhamalla.
-- Project title - Understanding the Molecular Mechanism of Bromo and PHD Finger Containing Proteins (BRPF) in Gene Expression Regulation
-- Project Student (Master’s Thesis) 2017 - 2018, Vidyasagar University, (Midnapore, India), Supervisor- Prof. Jayanta Kumar Kundu.
-- Project title - Neurotoxic Effects of Lead (pb) on Mus musculus and its Recovery by _Phyllanthus emblica_  
+- Research Scholar 2019 - 2024  
+Indian Institute of Science Education and Research Kolkata (IISER Kolkata)  
+Supervisor - Dr. Babu Sudhamalla
+**Project title - Unraveling the Role of Bromodomain and PHD finger (BRPF) Proteins in Epigenetic Regulation of Hepatocellular Carcinoma**
+- Project Student (Master’s Thesis) 2017 - 2018  
+Vidyasagar University (Midnapore, India)
+Supervisor - Prof. Jayanta Kumar Kundu  
+Project title - Neurotoxic Effects of Lead (pb) on Mus musculus and its Recovery by _Phyllanthus emblica_  
 
 # Teaching Experience
 ### Department of Biological Sciences, IISER Kolkata
@@ -46,17 +50,22 @@ Poster title - Uncovering Epigenetic Mechanisms at the Crossroad of Chemistry an
 # Technical Skills
 ### Molecular Biology
 - SDS-PAGE, Agarose Gel Electrophoresis, Westernblot, DNA/RNA/nucleosome/histone isolation, RT-PCR, qPCR, Immunoprecipitation (IP), Plasmid Expression and Isolation, Coimmunoprecipitation (coIP), Chromatin Immunoprecipitation (ChIP)  
+
 ### Protein Biochemistry
 - Bacterial Expression of Protein, Protein Purification by Affinity Chromatography (Ni-NTA, GST) and Size Exclusion
 Chromatography (FPLC), Isothermal Titration Calorimetry (ITC), Surface Plasmon Resonance (SPR), Fluorescence Polarization (FP), In-Gel Fluorescence, Photocrosslinking (in vitro), Unnatural Amino Acids Mutagenesis(AzF,BzF)  
+
 ### Cell Culture
 - Adherent Cell Culture of Mammalian Cells, Cells Freezing, Reviving and Passaging, Cell Counting in Hemocytometer, Transfection  
+
 ### Bioinformatics Tools
 - Virtual Screening Using Autodock Vina, PyMOL, Chimera, Discovery Studio Visualizer, Schrodinger Software 2018, Molecular Dynamics Using Gromacs, ChIP Seq Data Analysis, ATAC Seq Data Analysis, RNA Seq Data Analysis,
 Single-Cell RNA-Seq Analysis, Proteomics Data Analysis Using Maxquant, Galaxy  
+
 ### Analytics and Programming
 - Origin, Graphpad Prism, Gnu Plot, Xmgrace, Python Basics and R (For analysis of Molecular Dynamics, ChIP seq, Bulk
 RNA Seq and Single-Cell RNA-Seq Data Analysis)
+
 ### Vector Designing
 - Adobe Illustrator, Blender  
 
@@ -72,7 +81,7 @@ RNA Seq and Single-Cell RNA-Seq Data Analysis)
 8. Bardhan I, Barman S, Roy A, Sudhamalla B∗.Novel insights into the recognition of acetylated histone H4 tail by the TRIM24 PHD-Bromo module. Biochem J. 2023 May 17; 480 (9): 629-647.
 9. Bera A#, Ghosh P#, Barman S, Bhattacharya S, Sudhamalla B, Goswami K, De P∗. Insulin fibril inhibition using glycopolymeric nanoassemblies. Biomater Sci. 2023 Mar 31:1-13.
 10. Yadav Y, Barman S#, Roy A#, Padhan J, Sudhamalla B∗.Uncovering the Domain-Specific Interactome of the TAF1 Tandem Reader Using Site-Specific Azide-Acetyllysine Photochemistry. Biochemistry. 2023 Jan 17;62(2):270-280  
- _# These authors contributed equally**_  
+ _# These authors contributed equally_  
 ### Under Preparation/Communication  
 1. Sain A, Barman S, Khamrai D, Srinivas M, Varshney M, Sudhamalla B, Naskar D∗. Olive Phenolic Compounds Target Tankyrase to Exert anti-cancer Effects against Colon Cancer. (Under Preparation)
 2. Barman S, Sudhamalla B∗. PWWP domain of BRPF1/2 interacts with E2F1 and regulates the expression of genes associated with hepatocellular carcinoma and breast cancer. (Under Preparation)
