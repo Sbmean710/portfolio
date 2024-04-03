@@ -1,7 +1,5 @@
-# portfolio
-# SOUMEN BARMAN
 # Contact
-Position: PhD Scholar, Department of Biological Sciences, Indian Institute of Science Education and Research Kolkata (IISER
+* Position: PhD Scholar, Department of Biological Sciences, Indian Institute of Science Education and Research Kolkata (IISER
 Kolkata)
 Address: Campus Road, Mohanpur, West Bengal 741246
 Phone: (+91) 9614485356
