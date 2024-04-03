@@ -1,6 +1,6 @@
 # Contact
-#### _Position: PhD Scholar, Department of Biological Sciences, Indian Institute of Science Education and Research Kolkata (IISER
-Kolkata)_
+#### Position: PhD Scholar, Department of Biological Sciences, Indian Institute of Science Education and Research Kolkata (IISER
+Kolkata)
 #### Address: Campus Road, Mohanpur, West Bengal 741246
 #### Phone: (+91) 9614485356
 #### Email: sb18rs093@iiserkol.ac.in or soumenbarman710@gmail.com
@@ -14,7 +14,7 @@ Kolkata)_
 - Project Student (Master’s Thesis) 2017 - 2018, Vidyasagar University, (Midnapore, India), Supervisor- Prof. Jayanta Kumar Kundu.
 - Project title - Neurotoxic Effects of Lead (pb) on Mus musculus and its Recovery by Phyllanthus emblica
 # Teaching Experience
-## Department of Biological Sciences, IISER Kolkata
+### Department of Biological Sciences, IISER Kolkata
 - Teaching Assistant for Cell Biology and Imaging Laboratory (LS3104) Spring 2022
 - Teaching Assistant for Cloning and Protein Expression Laboratory (LS4205) Spring 2021
 - Teaching Assistant for Bioinformatics (LS3205) Autum 2021
@@ -41,25 +41,25 @@ Surface Plasmon Resonance (SPR) Module Instructor
 - Poster presentation in DBS day 2020, Indian Institute of Science Education and Research, (Kolkata, India)
 Poster title - Uncovering Epigenetic Mechanisms at the Crossroad of Chemistry and Biology
 # Technical Skills
-## Molecular Biology
+### Molecular Biology
 - SDS-PAGE, Agarose Gel Electrophoresis, Westernblot, DNA/RNA/nucleosome/histone isolation, RT-PCR, qPCR, Immunoprecipitation (IP), Plasmid Expression and Isolation, Coimmunoprecipitation (coIP), Chromatin Immunoprecipitation (ChIP)
-## Protein Biochemistry
+### Protein Biochemistry
 Bacterial Expression of Protein, Protein Purification by Affinity Chromatography (Ni-NTA, GST) and Size Exclusion
 Chromatography (FPLC), Isothermal Titration Calorimetry (ITC), Surface Plasmon Resonance (SPR), Fluorescence Polarization (FP), In-Gel Fluorescence, Photocrosslinking (in vitro), Unnatural Amino Acids Mutagenesis(AzF,BzF)
-• Cell Culture
+### Cell Culture
 Adherent Cell Culture of Mammalian Cells, Cells Freezing, Reviving and Passaging, Cell Counting in Hemocytometer,
 Transfection
-• Bioinformatics Tools
+### Bioinformatics Tools
 Virtual Screening Using Autodock Vina, PyMOL, Chimera, Discovery Studio Visualizer, Schrodinger Software 2018, ¨
 Molecular Dynamics Using Gromacs, ChIP Seq Data Analysis, ATAC Seq Data Analysis, RNA Seq Data Analysis,
 Single-Cell RNA-Seq Analysis, Proteomics Data Analysis Using Maxquant, Galaxy
-• Analytics and Programming
+### Analytics and Programming
 Origin, Graphpad Prism, Gnu Plot, Xmgrace, Python Basics and R (For analysis of Molecular Dynamics, ChIP seq, Bulk
 RNA Seq and Single-Cell RNA-Seq Data Analysis)
 • Vector Designing
 Adobe Illustrator, Blender
 # Publications
-## Journal Papers
+### Journal Papers
 1. Barman S , Padhan J, Sudhamalla B∗. Uncovering the Nonhistone Interactome of BRPF1 Bromodomain Using SiteSpecific Azide-Acetyllysine Photochemistry. JBC. 2023 Dec 3; DOI:https://doi.org/10.1016/j.jbc.2023.105551
 2. Barman S, Bardhan I, Padhan J, Sudhamalla B∗.Integrated virtual screening and MD simulation approaches toward
 discovering potential inhibitors for targeting BRPF1 bromodomain in hepatocellular carcinoma. Journal of Molecular
@@ -77,9 +77,8 @@ TRIM24 PHD-Bromo module. Biochem J. 2023 May 17; 480 (9): 629-647.
 9. Bera A#, Ghosh P#, Barman S, Bhattacharya S, Sudhamalla B, Goswami K, De P∗. Insulin fibril inhibition using
 glycopolymeric nanoassemblies. Biomater Sci. 2023 Mar 31:1-13.
 10. Yadav Y, Barman S#, Roy A#, Padhan J, Sudhamalla B∗.Uncovering the Domain-Specific Interactome of the TAF1
-Tandem Reader Using Site-Specific Azide-Acetyllysine Photochemistry. Biochemistry. 2023 Jan 17;62(2):270-280
- # These authors contributed equally
-## Under Preparation/Communication
+Tandem Reader Using Site-Specific Azide-Acetyllysine Photochemistry. Biochemistry. 2023 Jan 17;62(2):270-280 # These authors contributed equally
+### Under Preparation/Communication
 1. Sain A, Barman S, Khamrai D, Srinivas M, Varshney M, Sudhamalla B, Naskar D∗. Olive Phenolic Compounds Target
 Tankyrase to Exert anti-cancer Effects against Colon Cancer. (Under Preparation)
 2. Barman S, Sudhamalla B∗. PWWP domain of BRPF1/2 interacts with E2F1 and regulates the expression of genes
@@ -87,18 +86,18 @@ associated with hepatocellular carcinoma and breast cancer. (Under Preparation)
 3. Barman S, Sudhamalla B∗. Site-specific Photochemistry on PZP of Bromo and PHD Finger (BRPF) Family Protein 1
 for Photo-ChIP. (Under Preparation)
 # References
-• Dr. Babu Sudhamalla
+Dr. Babu Sudhamalla
 Assistant Professor
 Indian Institute of Science Education and Research, Kolkata
 Phone: +919849774961
 Email: s.babu@iiserkol.ac.in
-• Dr. Arnab Gupta
+Dr. Arnab Gupta
 Associate Professor
 Indian Institute of Science Education and Research, Kolkata
 Phone: +917044087662
 Email: arnab.gupta@iiserkol.ac.in
-• Dr. Sreeramaiah Gangappa
+- (Dr. Sreeramaiah Gangappa
 Assistant Professor
 Indian Institute of Science Education and Research, Kolkata
 Phone: +917619293192
-Email: ngsreeram@iiserkol.ac.in
+Email: ngsreeram@iiserkol.ac.in)
