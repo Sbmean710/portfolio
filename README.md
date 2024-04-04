@@ -11,12 +11,12 @@ Email: sb18rs093@iiserkol.ac.in or soumenbarman710@gmail.com
 # Research Experience
 - Research Scholar 2019 - 2024  
 Indian Institute of Science Education and Research Kolkata (IISER Kolkata)  
-Supervisor - Dr. Babu Sudhamalla
+Supervisor - Dr. Babu Sudhamalla  
 **Project title - Unraveling the Role of Bromodomain and PHD finger (BRPF) Proteins in Epigenetic Regulation of Hepatocellular Carcinoma**
 - Project Student (Master’s Thesis) 2017 - 2018  
 Vidyasagar University (Midnapore, India)
 Supervisor - Prof. Jayanta Kumar Kundu  
-Project title - Neurotoxic Effects of Lead (pb) on Mus musculus and its Recovery by _Phyllanthus emblica_  
+**Project title - Neurotoxic Effects of Lead (pb) on Mus musculus and its Recovery by _Phyllanthus emblica_**  
 
 # Teaching Experience
 ### Department of Biological Sciences, IISER Kolkata
@@ -82,6 +82,7 @@ RNA Seq and Single-Cell RNA-Seq Data Analysis)
 9. Bera A#, Ghosh P#, Barman S, Bhattacharya S, Sudhamalla B, Goswami K, De P∗. Insulin fibril inhibition using glycopolymeric nanoassemblies. Biomater Sci. 2023 Mar 31:1-13.
 10. Yadav Y, Barman S#, Roy A#, Padhan J, Sudhamalla B∗.Uncovering the Domain-Specific Interactome of the TAF1 Tandem Reader Using Site-Specific Azide-Acetyllysine Photochemistry. Biochemistry. 2023 Jan 17;62(2):270-280  
  _# These authors contributed equally_  
+
 ### Under Preparation/Communication  
 1. Sain A, Barman S, Khamrai D, Srinivas M, Varshney M, Sudhamalla B, Naskar D∗. Olive Phenolic Compounds Target Tankyrase to Exert anti-cancer Effects against Colon Cancer. (Under Preparation)
 2. Barman S, Sudhamalla B∗. PWWP domain of BRPF1/2 interacts with E2F1 and regulates the expression of genes associated with hepatocellular carcinoma and breast cancer. (Under Preparation)
